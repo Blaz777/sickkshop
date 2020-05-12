@@ -48,6 +48,7 @@ p
   font-family: 'Roboto', sans-serif;
   font-size: 22px;
   color: white;
+  text-decoration: none;
 }
 
 h2
@@ -125,4 +126,15 @@ footer
 .logo
 {
   margin-top: 20px;
+}
+
+.announcment
+{
+  display: box;
+  width: 250px;
+  height: 100px;
+  background-color: green;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
 }
